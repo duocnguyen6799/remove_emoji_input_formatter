@@ -18,7 +18,7 @@ You should then run `flutter pub get`.
 There is a example project in the `example` folder. Check it out.
 
 ## Demo
-<img src="./remove_emoji_input_formatter_demo.gif" width="250"/>
+<img src="https://github.com/duocnguyen6799/remove_emoji_input_formatter/blob/main/remove_emoji_input_formatter_demo.gif" width="250"/>
 
 ## Usage
 
