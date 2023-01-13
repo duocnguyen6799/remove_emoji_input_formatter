@@ -1,0 +1,23 @@
+name: remove_emoji_input_formatter
+description: Remove emoji or icon input formatter supported for TextField.
+version: 0.0.1
+author: DuocNP <duocnguyen6799@gmail.com>
+homepage: https://github.com/duocnguyen6799/remove_emoji_input_formatter
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
