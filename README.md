@@ -16,6 +16,10 @@ You should then run `flutter pub get`.
 ## Example Project
 
 There is a example project in the `example` folder. Check it out.
+
+## Demo
+<img src="./remove_emoji_input_formatter_demo.gif" width="250"/>
+
 ## Usage
 
 ```dart
