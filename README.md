@@ -8,7 +8,7 @@ You should ensure that you add the router as a dependency in your flutter projec
 
 ```yaml
 dependencies:
-  remove_emoji_input_formatter: ^0.0.1
+  remove_emoji_input_formatter: ^0.0.1+1
 ```
 
 You should then run `flutter pub get`.

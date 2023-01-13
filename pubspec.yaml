@@ -1,6 +1,6 @@
 name: remove_emoji_input_formatter
 description: Remove emoji or icon input formatter supported for TextField.
-version: 0.0.1
+version: 0.0.1+1
 homepage: https://github.com/duocnguyen6799/remove_emoji_input_formatter
 
 environment:
